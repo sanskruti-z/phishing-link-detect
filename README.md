@@ -7,7 +7,6 @@ Project Structure
 ├── script.js        # JavaScript to handle link analysis
 └── README.md        # Project overview and documentation
 
-
 How to Use It
 Visit the Website
  Click here to open the live project
