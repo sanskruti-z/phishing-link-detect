@@ -2,7 +2,7 @@ Phishing Link Detector
 
 A simple and effective tool to help users detect whether a given link is potentially a phishing link. Designed to raise awareness and improve online safety by analyzing suspicious URLs directly in the browser — no installation needed.
 
-Live Demo: [Click here to open the live project](https://sanskruti-z.github.io/phishing-link-detect/)
+Live : [Click here to open the live project](https://sanskruti-z.github.io/phishing-link-detect/)
 
 ---
 
@@ -60,12 +60,6 @@ Tech Stack
 - Store link history (locally or via API)
 - Enhance detection with a threat database/API integration
 - Improve UI animations and error handling
-
----
-
-Contributions
-
-Feel free to fork the repo, suggest improvements, or open issues!
 
 ---
 
