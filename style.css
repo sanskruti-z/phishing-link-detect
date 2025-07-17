@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f3f0ff;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  width: 90%;
+  max-width: 500px;
+  text-align: center;
+}
+
+h1 {
+  color: #5c4d9d;
+  margin-bottom: 15px;
+  font-size: 28px;
+}
+
+p {
+  color: #777;
+  margin-bottom: 25px;
+  font-size: 15px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #dcd6f7;
+  border-radius: 10px;
+  font-size: 16px;
+  outline: none;
+  margin-bottom: 20px;
+  transition: border 0.3s ease;
+}
+
+input[type="text"]:focus {
+  border-color: #a88aff;
+}
+
+button {
+  padding: 12px 24px;
+  background-color: #a88aff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #8c70e0;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 16px;
+  color: #4d3c91;
+}
+
+#tip {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
